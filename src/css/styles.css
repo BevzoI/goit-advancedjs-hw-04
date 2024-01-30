@@ -36,7 +36,7 @@ body {
 }
 
 .header {
-  background-color: #f022d4;
+  background-color: #8cc1b6;
   padding: 0;
 }
 
@@ -61,7 +61,7 @@ body {
 
 .search-btn {
   height: 32px;
-  background-color: #e8e8e8;
+  background-color: #ddff00;
   border: none;
   outline: none;
   display: flex;
